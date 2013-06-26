@@ -1,6 +1,6 @@
-perl-net-bonjour
+Net::Bonjour
 ================
-This is Net::Bonjour, a set of perl modules to utilize DNS for service
+This is a set of perl modules to utilize DNS for service
 discovery.  This method of service discovery is branded as Bonjour by 
 Apple Computer.  More information can be found at:
 
@@ -13,7 +13,7 @@ http://www.dns-sd.org/ServiceTypes.html
 
 Requirements: 
   perl >= 5.6.0
-	Net::DNS >= 0.50
+  Net::DNS >= 0.50
 
 Install the library by running these commands:
 
